@@ -1,0 +1,20 @@
+.carousel-item{
+
+    height: 29.2vw;
+    object-fit: cover;
+}
+
+h1{
+
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+
+h2{
+
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+
+p{
+
+    font-family: "Stencil Std", "fantasy", monospace;
+}

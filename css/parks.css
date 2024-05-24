@@ -1,0 +1,10 @@
+body {
+    background-image: url("../css_images/park_stock.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  h1{
+
+    font-family: "Lucida Console", "Courier New", monospace;
+}

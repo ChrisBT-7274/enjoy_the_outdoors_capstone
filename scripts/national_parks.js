@@ -101,6 +101,7 @@ nationalParksArray.forEach(((park) =>{
 
 ))
 
+// function to show empty results 
 
 if(matchedArray.length > 0){
 for( let park of matchedArray){
